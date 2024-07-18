@@ -17,17 +17,17 @@ A ~~shitshow~~ fully functioning human being. definitely.
 </br>
 
 <div align = "center">
-
-<p>
-
-</p>
-
+    <img style = "width: 25em;" src = "jojoToji.png">
 </div>
 
-
+<span align="center">
+  
 ### Languages
-1. English and Hindi ( huh ⁉️ ⁉️ ⁉️ ⁉️ )
-2. Python
-3. Java
-4. JavaScript
-5. Dart (Flutter) 
+
+English and Hindi ( huh ⁉️ ⁉️ ⁉️ ⁉️ ),
+Python,
+Java,
+JavaScript,
+Dart (Flutter)
+
+</span>
