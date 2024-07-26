@@ -38,6 +38,8 @@ English and Hindi ( huh ⁉️ ⁉️ ⁉️ ⁉️ ),
 Python,
 Java,
 JavaScript,
-Dart (Flutter)
+Dart (Flutter),
+Swift (Learning),
+Bash (Learning)
 
 </span>
