@@ -5,12 +5,12 @@
 </br>
 <span align="center">
   
-A ~~shitshow~~ fully functioning human being. definitely.
+A fully functioning human being.
 
 </span>
 </br>
 
-<p align="center">and beginner programmer, app developer, and web developer.</p>
+<p align="center">and intermediate programmer, app developer, and web developer.</p>
 
 ---
 
@@ -39,7 +39,7 @@ Python,
 Java,
 JavaScript,
 Dart (Flutter),
-Swift (Learning),
-Bash (Learning)
+Swift,
+Bash
 
 </span>
